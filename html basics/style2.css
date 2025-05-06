@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+    background-image: url("pigguniya.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    background-color: black;color: bisque;
+    font-family:"consolas";
+    font-style: italic;
+    font-weight: 1000;
+    font-size: xx-large;
+    text-decoration: aqua wavy underline;
+
+
+   
+
+}
+p{
+    background-color: black;color: white;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: gold;
+    padding: 2px;
+}
+
+.odd{
+    color: green;
+}
